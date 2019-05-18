@@ -192,6 +192,9 @@ a:hover, a:focus, a:active {
   color: #F12933;
 }
 strong {
-  color: #F12933;
+  color: #363636;
   text-transform: none;
+}
+.grey{
+    color: #737373;
 }
