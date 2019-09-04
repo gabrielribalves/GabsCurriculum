@@ -201,3 +201,6 @@ strong {
 .bigsize{
   font-size: 1.3em;
 }
+#quebra{
+  word-wrap:  break-word;
+}
